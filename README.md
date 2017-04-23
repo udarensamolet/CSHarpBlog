@@ -1,1 +1,6 @@
-# CSHarpBlog
+# CSharpBlog
+
+## SoftUni - udarensamolet
+
+### version control
+
