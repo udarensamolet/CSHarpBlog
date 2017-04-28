@@ -1,6 +1,5 @@
 # CSharpBlog
 
-## SoftUni - udarensamolet
+## Project for SoftUni course - Software Technologies
 
-### version control
-
+### C#
